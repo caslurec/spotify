@@ -21,17 +21,17 @@ module.exports = {
       }),
       backgroundSize: {
         '175%': '175%',
-        '195%': '195%',
+        '195%': '195%'
       },
-      backgroudPosition: {
+      backgroundPosition: {
         'banner': '46% 4%',
-        'banner-mobile': 'top 25% center',
+        'banner-mobile': 'top 25% center'
       },
       fontSize: {
-        '9x': '9rem'
-      },
+        '9xl': '9rem'
+      }
     },
   },
-  variants : {},
+  variants: {},
   plugins: [],
 }
